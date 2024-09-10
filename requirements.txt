@@ -1,0 +1,9 @@
+openai
+langchain
+langchain-openai
+langchain-community
+numpy
+networkx
+streamlit==1.36.0
+goatools==1.4.12
+
