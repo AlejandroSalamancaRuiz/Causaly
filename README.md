@@ -30,7 +30,7 @@ To get started, follow these steps:
 - Download the **GO Basic Ontology** file (`go-basic.obo`) and place it in the `GOA_human` folder.
 
 #### 4. Configure Environment Variables
-- In the root directory, locate the `.env` file or create one if not already present.
+- In the root directory, locate the `config` file or create one if not already present.
 - Set your OpenAI API key by modifying the `OPENAI_API_KEY` variable:
 
 ```bash
