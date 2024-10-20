@@ -13,8 +13,6 @@ This AI Assistant is built using the LangChain framework, with a series of tools
 
 ### How to Use:
 
-To use an already deployed version, just follow this link: http://132.145.29.169:8501/
-
 To install it locally, follow these steps:
 
 #### 1. Create a Data Folder
